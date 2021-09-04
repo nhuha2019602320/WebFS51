@@ -1,0 +1,45 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: linear-gradient( to right, #3a8ed3, #45c4bd);
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* input {
+    width: 500px;
+    height: 35px;
+    outline: none;
+    border: none;
+    background-color: cyan;
+}
+*/
+input:hover {
+    transition: 0.5s;
+    background-image: linear-gradient( to right, #1ABCF4, #5DEFB8);
+}
+
+.btn {
+    height: 37px;
+    background-color: rgb(250, 87, 58);
+    border: none;
+    cursor: pointer;
+    background-color: cadetblue;
+
+} 
+
+button:hover {
+    background-color: rgb(231, 92, 74);
+    transition: 0.5s;
+}
+#infor {
+    text-align: center;
+}
+.card {
+    position: relative;
+    left: 37%;
+    top: 30px;
+}

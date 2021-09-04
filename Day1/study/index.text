@@ -1,0 +1,26 @@
+*có 6 kiểu dữ liệu: number, bollen, string. 
+- arr, function => kiểu con của obj
+-có 3 trường hợp undefined      
+    + variable chưa đc khai báo
+    + obj không tim thấy key
+    + arr không tìm đc phần tử
+
+*kiểu null
+
+*coercion(ép kiểu ngầm định)
+    
+*type casting(ép kiểu rõ ràng)
+ 
+*object
+    + có 2 cách khởi tạo obj 
+    1. object literal
+    2. object constructor
+    + một số tip làm việc với obj
+    1.truy xuất vào các field (key, function) trong obj 
+//prototype => extend -> kế thừa thuojc tính và phương thứ
+//es6 => extends =>
+//sử dụng es6 convvert to es5
+ 
+*es6
+-sử dụng babel sẽ convert es6 => es5 thực hiện lúc complie
+
