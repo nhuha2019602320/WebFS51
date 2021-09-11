@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 import PostData from '../Data/db.json'
 
-import { Card, CardGroup, Button } from 'react-bootstrap';
+import { Card, CardGroup, Button } from 'rea';
 export default class ProductContainer extends Component {
     constructor (props) {
         super(props);

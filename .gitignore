@@ -5,3 +5,5 @@ npm
 express
 nodemon
 RESTAPI
+react-bootstrap
+axios
